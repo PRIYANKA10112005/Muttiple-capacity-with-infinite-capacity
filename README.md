@@ -27,6 +27,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program:
 Deveopled by: Indhu Priya.T
+
 Register Number: 24007533
 ```
 import math
@@ -65,6 +66,8 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
+![Screenshot 2024-12-21 140125](https://github.com/user-attachments/assets/e4d2036e-42c5-4846-89f7-2d21123578bf)
+
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
